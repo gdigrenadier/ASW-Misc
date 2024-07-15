@@ -1,2 +1,2 @@
 # ASW-Misc
-Other resources for Arrakis: SPice Wars
+Just a repository that features things like tilesets and other random stuff.
